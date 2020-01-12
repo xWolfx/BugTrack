@@ -20,3 +20,8 @@ code {
   background-size: cover;
   background-attachment: fixed;
 }
+
+.w3-border-grey {
+  margin: auto;
+  width: 40%;
+}
